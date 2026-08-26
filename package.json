@@ -1,10 +1,10 @@
 {
-"name": "madyy-digital",
-"version": "1.0.0",
-"private": true,
-"dependencies": "^18",
-"react-dom": "^18",
-"lucide-react": "latest"
- }
-
+  "name": "madyy-digital",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "lucide-react": "latest"
+  }
 }
